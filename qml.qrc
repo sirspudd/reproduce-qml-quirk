@@ -1,5 +1,7 @@
 <RCC>
     <qresource prefix="/">
         <file>main.qml</file>
+        <file>joy.js</file>
+        <file>biggerjoy.js</file>
     </qresource>
 </RCC>
